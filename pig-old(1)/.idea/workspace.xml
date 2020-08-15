@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35db0a3c-f26b-4ebc-9776-6fa19ebbe885" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.1/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fMImivJR0c97uQxZotSHnwXtwn" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pig-old" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GroupApplication">
+    <configuration name="CourseInfoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="edu-course" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bnzjy.course.CourseInfoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExamApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="edu-exam" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bnzjy.exam.ExamApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="edu-group" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bnzjy.group.GroupApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PigAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="pig-upms-biz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pig4cloud.pig.admin.PigAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PigAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="pig-auth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pig4cloud.pig.auth.PigAuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PigCodeGenApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="pig-codegen" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pig4cloud.pig.codegen.PigCodeGenApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PigGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="pig-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pig4cloud.pig.gateway.PigGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PigMonitorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="pig-monitor" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pig4cloud.pig.monitor.PigMonitorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PigNacosApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="pig-register" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.nacos.PigNacosApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35db0a3c-f26b-4ebc-9776-6fa19ebbe885" name="Default Changelist" comment="" />
+      <created>1596021695449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596021695449</updated>
+      <workItem from="1596021696672" duration="50000" />
+      <workItem from="1596021760196" duration="1198000" />
+      <workItem from="1596022985397" duration="146000" />
+      <workItem from="1596023158764" duration="914000" />
+      <workItem from="1596024102607" duration="227000" />
+      <workItem from="1596024412477" duration="597000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
